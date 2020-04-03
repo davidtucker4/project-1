@@ -8,3 +8,4 @@
 - Github overview
 - Markdown language for README files
 - JavaScript ES6+ features
+- One additional thing that I learned doing this project is using the terminal
