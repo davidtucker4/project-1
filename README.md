@@ -1,5 +1,7 @@
 # CIT 281 Project 1
 
+![Octocat](images/favoriteOctocat.png)
+
 ## Learning Objectives
 
 - Basic Unix Shell commands
