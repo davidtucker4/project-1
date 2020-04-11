@@ -2,6 +2,8 @@
 
 ![Octocat](images/favoriteOctocat.png)
 
+[281 Website](https://pages.uoregon.edu/dtucker4/281/)
+
 ## Learning Objectives
 
 - Basic Unix Shell commands
