@@ -36,7 +36,7 @@ let controller = function() {
 
 };
 
-window.addEventListener("Load", function() {
+window.addEventListener("load", function() {
   console.log('load');
 
   let button = document.querySelector("button");
